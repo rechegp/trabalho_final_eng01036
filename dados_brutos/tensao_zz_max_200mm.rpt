@@ -1,0 +1,29 @@
+********************************************************************************
+Probe Values Report, written on Wed Jun  3 23:15:19 2026
+
+Source
+-------
+
+   ODB: C:/Users/pedro/OneDrive - UFRGS/2026-1/eng01036/abaqus/simulacao_200mm.odb
+   Step: analise_elastica_linear
+   Frame: Increment      1: Step Time =    1.000
+   Variable: S, S33 (Avg: 100)
+
+Probe values reported at nodes
+
+  Part Instance     Node ID                   Orig. Coords                                     Def. Coords                 
+                                    X               Y               Z               X               Y               Z      
+-------------------------------------------------------------------------------------------------------------------------
+     VIGA2-1         450             15.             25.              0.             15.             25.     1.82387E-27
+     VIGA2-1         750             30.             25.              0.             30.             25.     1.00934E-27
+     VIGA2-1         150              0.             25.              0.     194.354E-30             25.     1.00934E-27
+
+
+  Part Instance     Node ID  Attached elements          S, S33
+---------------------------------------------------------------
+     VIGA2-1         450             232     73.8671E+06
+     VIGA2-1         450             348     73.8671E+06
+     VIGA2-1         750             464     75.6158E+06
+     VIGA2-1         150             116     75.6158E+06
+
+

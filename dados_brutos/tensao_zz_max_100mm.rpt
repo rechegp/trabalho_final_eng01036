@@ -1,0 +1,29 @@
+********************************************************************************
+Probe Values Report, written on Wed Jun  3 23:24:08 2026
+
+Source
+-------
+
+   ODB: C:/Users/pedro/OneDrive - UFRGS/2026-1/eng01036/abaqus/minha_simulacao.odb
+   Step: Step-1
+   Frame: Increment      1: Step Time =    1.000
+   Variable: S, S33 (Avg: 100)
+
+Probe values reported at nodes
+
+  Part Instance     Node ID                   Orig. Coords                                     Def. Coords                 
+                                    X               Y               Z               X               Y               Z      
+-------------------------------------------------------------------------------------------------------------------------
+     VIGA1-1         882             30.             25.              0.             30.             25.     149.555E-30
+     VIGA1-1         504             15.             25.              0.             15.             25.     277.911E-30
+     VIGA1-1         126              0.             25.              0.     32.2664E-30             25.     149.555E-30
+
+
+  Part Instance     Node ID  Attached elements          S, S33
+---------------------------------------------------------------
+     VIGA1-1         882             600     19.9975E+06
+     VIGA1-1         504             300     19.7094E+06
+     VIGA1-1         504             400     19.7094E+06
+     VIGA1-1         126             100     19.9975E+06
+
+
